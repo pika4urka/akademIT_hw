@@ -25,8 +25,8 @@ namespace HomeWorkFigure
         { 
             get 
             { 
-                if ( (a == 0) || (b == 0) )
-                    throw new Exception("not all parameters are set");
+                if ( (a <= 0) || (b <= 0) )
+                    throw new Exception("not all parameters are set\nor incorrect data entered");
                 else
                     return 2 * (a + b); 
             } 
@@ -36,8 +36,8 @@ namespace HomeWorkFigure
         { 
             get 
             {
-                if ((a == 0) || (b == 0))
-                    throw new Exception("not all parameters are set");
+                if ((a <= 0) || (b <= 0))
+                    throw new Exception("not all parameters are set\nor incorrect data entered");
                 else
                     return a * b; 
             } 

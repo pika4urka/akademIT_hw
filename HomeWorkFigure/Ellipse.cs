@@ -29,8 +29,8 @@ namespace HomeWorkFigure
         { 
             get 
             {
-                if ((a == 0) || (b == 0))
-                    throw new Exception("not all parameters are set");
+                if ((a <= 0) || (b <= 0))
+                    throw new Exception("not all parameters are set\nor incorrect data entered");
                 else
                 {
                     double buf = 2 * PI * Sqrt((a * a + b * b) / 2);
@@ -42,8 +42,8 @@ namespace HomeWorkFigure
         { 
             get 
             {
-                if ((a == 0) || (b == 0))
-                    throw new Exception("not all parameters are set");
+                if ((a <= 0) || (b <= 0))
+                    throw new Exception("not all parameters are set\nor incorrect data entered");
                 else
                     return PI * a * b;
             } 

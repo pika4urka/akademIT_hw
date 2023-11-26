@@ -31,8 +31,8 @@ namespace HomeWorkFigure
         { 
             get 
             {
-                if (rad == 0)
-                    throw new Exception("not all parameters are set");
+                if (rad <= 0)
+                    throw new Exception("not all parameters are set\nor incorrect data entered");
                 else
                     return 2 * PI * rad; 
             } 
@@ -42,8 +42,8 @@ namespace HomeWorkFigure
         { 
             get 
             {
-                if (rad == 0)
-                    throw new Exception("not all parameters are set");
+                if (rad <= 0)
+                    throw new Exception("not all parameters are set\nor incorrect data entered");
                 else
                     return PI * rad * rad; 
             } 

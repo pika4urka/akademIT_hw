@@ -22,8 +22,8 @@ namespace HomeWorkFigure
         { 
             get 
             { 
-                if (sd == 0)
-                    throw new Exception("not all parameters are set");
+                if (sd <= 0)
+                    throw new Exception("not all parameters are set\nor incorrect data entered");
                 else
                     return sd * 4; 
             } 
@@ -32,8 +32,8 @@ namespace HomeWorkFigure
         { 
             get 
             {
-                if (sd == 0)
-                    throw new Exception("not all parameters are set");
+                if (sd <= 0)
+                    throw new Exception("not all parameters are set\nor incorrect data entered");
                 else
                     return sd * sd; 
             } 
