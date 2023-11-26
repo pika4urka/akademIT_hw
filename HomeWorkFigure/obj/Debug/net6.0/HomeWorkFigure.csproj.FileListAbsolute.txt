@@ -1,0 +1,15 @@
+C:\Users\Дмитрий\source\repos\cs-basig\rg\TestApp42\HomeWorkFigure\bin\Debug\net6.0\HomeWorkFigure.exe
+C:\Users\Дмитрий\source\repos\cs-basig\rg\TestApp42\HomeWorkFigure\bin\Debug\net6.0\HomeWorkFigure.deps.json
+C:\Users\Дмитрий\source\repos\cs-basig\rg\TestApp42\HomeWorkFigure\bin\Debug\net6.0\HomeWorkFigure.runtimeconfig.json
+C:\Users\Дмитрий\source\repos\cs-basig\rg\TestApp42\HomeWorkFigure\bin\Debug\net6.0\HomeWorkFigure.dll
+C:\Users\Дмитрий\source\repos\cs-basig\rg\TestApp42\HomeWorkFigure\bin\Debug\net6.0\HomeWorkFigure.pdb
+C:\Users\Дмитрий\source\repos\cs-basig\rg\TestApp42\HomeWorkFigure\obj\Debug\net6.0\HomeWorkFigure.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\cs-basig\rg\TestApp42\HomeWorkFigure\obj\Debug\net6.0\HomeWorkFigure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\source\repos\cs-basig\rg\TestApp42\HomeWorkFigure\obj\Debug\net6.0\HomeWorkFigure.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\source\repos\cs-basig\rg\TestApp42\HomeWorkFigure\obj\Debug\net6.0\HomeWorkFigure.AssemblyInfo.cs
+C:\Users\Дмитрий\source\repos\cs-basig\rg\TestApp42\HomeWorkFigure\obj\Debug\net6.0\HomeWorkFigure.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\cs-basig\rg\TestApp42\HomeWorkFigure\obj\Debug\net6.0\HomeWorkFigure.dll
+C:\Users\Дмитрий\source\repos\cs-basig\rg\TestApp42\HomeWorkFigure\obj\Debug\net6.0\refint\HomeWorkFigure.dll
+C:\Users\Дмитрий\source\repos\cs-basig\rg\TestApp42\HomeWorkFigure\obj\Debug\net6.0\HomeWorkFigure.pdb
+C:\Users\Дмитрий\source\repos\cs-basig\rg\TestApp42\HomeWorkFigure\obj\Debug\net6.0\HomeWorkFigure.genruntimeconfig.cache
+C:\Users\Дмитрий\source\repos\cs-basig\rg\TestApp42\HomeWorkFigure\obj\Debug\net6.0\ref\HomeWorkFigure.dll

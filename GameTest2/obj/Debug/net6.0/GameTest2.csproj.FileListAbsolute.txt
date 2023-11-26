@@ -1,0 +1,15 @@
+C:\Users\Дмитрий\source\repos\cs-basig\rg\TestApp42\GameTest2\obj\Debug\net6.0\GameTest2.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\cs-basig\rg\TestApp42\GameTest2\obj\Debug\net6.0\GameTest2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\source\repos\cs-basig\rg\TestApp42\GameTest2\obj\Debug\net6.0\GameTest2.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\source\repos\cs-basig\rg\TestApp42\GameTest2\obj\Debug\net6.0\GameTest2.AssemblyInfo.cs
+C:\Users\Дмитрий\source\repos\cs-basig\rg\TestApp42\GameTest2\obj\Debug\net6.0\GameTest2.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\cs-basig\rg\TestApp42\GameTest2\bin\Debug\net6.0\GameTest2.exe
+C:\Users\Дмитрий\source\repos\cs-basig\rg\TestApp42\GameTest2\bin\Debug\net6.0\GameTest2.deps.json
+C:\Users\Дмитрий\source\repos\cs-basig\rg\TestApp42\GameTest2\bin\Debug\net6.0\GameTest2.runtimeconfig.json
+C:\Users\Дмитрий\source\repos\cs-basig\rg\TestApp42\GameTest2\bin\Debug\net6.0\GameTest2.dll
+C:\Users\Дмитрий\source\repos\cs-basig\rg\TestApp42\GameTest2\bin\Debug\net6.0\GameTest2.pdb
+C:\Users\Дмитрий\source\repos\cs-basig\rg\TestApp42\GameTest2\obj\Debug\net6.0\GameTest2.dll
+C:\Users\Дмитрий\source\repos\cs-basig\rg\TestApp42\GameTest2\obj\Debug\net6.0\refint\GameTest2.dll
+C:\Users\Дмитрий\source\repos\cs-basig\rg\TestApp42\GameTest2\obj\Debug\net6.0\GameTest2.pdb
+C:\Users\Дмитрий\source\repos\cs-basig\rg\TestApp42\GameTest2\obj\Debug\net6.0\GameTest2.genruntimeconfig.cache
+C:\Users\Дмитрий\source\repos\cs-basig\rg\TestApp42\GameTest2\obj\Debug\net6.0\ref\GameTest2.dll
